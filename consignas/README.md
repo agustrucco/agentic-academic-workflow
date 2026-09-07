@@ -5,7 +5,7 @@ cátedra (o tal cual la pasás vos). Separado a propósito de `materias/` —
 acá no se genera contenido, solo se guarda la consigna de referencia.
 
 Convención de nombre: `<materia-slug>-<entregable-slug>.md`, por ejemplo
-`mt10-fidelizacion-coto.md`. El mismo slug de `<materia-slug>/<entregable-slug>`
+`mt10-fidelizacion-retailco.md`. El mismo slug de `<materia-slug>/<entregable-slug>`
 tiene que coincidir con la carpeta correspondiente en `materias/`.
 
 Frontmatter sugerido en cada archivo:

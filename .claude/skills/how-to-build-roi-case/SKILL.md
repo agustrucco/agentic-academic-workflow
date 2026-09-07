@@ -9,7 +9,7 @@ trigger: Cuando tp-solution-architect arma o revisa una sección de ROI/justific
 Cuando la consigna de un entregable pide justificar **por qué hacerlo** y
 **por qué ahora**, una audiencia ejecutiva (CFO, directorio, panel) va a
 cuestionar cualquier número sin supuesto explícito detrás — la estructura
-importa tanto como el resultado. (Ejemplo del TP de fidelización de COTO:
+importa tanto como el resultado. (Ejemplo del TP de fidelización de RetailCo:
 la consigna pide exactamente esto.)
 
 1. **Por qué hacerlo (el caso base)**:

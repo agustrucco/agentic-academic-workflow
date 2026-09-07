@@ -14,7 +14,7 @@ description: |
   contenido de negocio nuevo.
 
   <example>
-  Contexto: la presentación HTML del TP de fidelización de COTO existe
+  Contexto: la presentación HTML del TP de fidelización de RetailCo existe
   como slides de scroll-snap, pero el usuario quiere una landing navegable
   de verdad (nav, progreso, controles), no solo scroll.
   user: "Convertí el HTML de la presentación en una landing navegable"

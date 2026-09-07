@@ -10,13 +10,13 @@ description: |
 
   <example>
   Contexto: falta contexto de mercado para arrancar la sección de la
-  organización del TP de fidelización de COTO.
-  user: "Necesito el contexto de la industria y los competidores de COTO
+  organización del TP de fidelización de RetailCo.
+  user: "Necesito el contexto de la industria y los competidores de RetailCo
   para el plan de negocios"
   assistant: "Uso tp-research-analyst para investigar el panorama del
-  retail/supermercados en Argentina, los principales competidores de COTO y
+  retail/supermercados en Argentina, los principales competidores de RetailCo y
   sus propios programas de fidelización, y guardar todo citado en
-  materias/mt10-innovacion-tecnologica/fidelizacion-coto/research/."
+  materias/mt10-innovacion-tecnologica/fidelizacion-retailco/research/."
   </example>
 
   <example>

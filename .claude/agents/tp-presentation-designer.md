@@ -8,11 +8,11 @@ description: |
   el plan de negocios en sí, eso es tp-plan-writer.
 
   <example>
-  Contexto: el documento del TP de fidelización de COTO ya tiene varias
+  Contexto: el documento del TP de fidelización de RetailCo ya tiene varias
   secciones maduras y se acerca la fecha de entrega.
   user: "Armá el guion de la presentación con lo que tenemos hasta ahora"
   assistant: "Uso tp-presentation-designer para traducir el documento de
-  materias/mt10-innovacion-tecnologica/fidelizacion-coto/entregable/ a un
+  materias/mt10-innovacion-tecnologica/fidelizacion-retailco/entregable/ a un
   guion con minutado por sección, guardado en entregable/presentacion/
   guion.md de ese mismo entregable."
   </example>

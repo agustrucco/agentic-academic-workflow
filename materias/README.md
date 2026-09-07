@@ -16,5 +16,5 @@ La consigna de cada entregable vive aparte, en `consignas/<materia-slug>-<entreg
 ## Materias activas
 
 - `mt10-innovacion-tecnologica/` — MT10 Innovación Tecnológica
-  - `fidelizacion-coto/` — plan de negocios de fidelización para COTO (ver
-    `consignas/mt10-fidelizacion-coto.md`)
+  - `fidelizacion-retailco/` — plan de negocios de fidelización para RetailCo (ver
+    `consignas/mt10-fidelizacion-retailco.md`)

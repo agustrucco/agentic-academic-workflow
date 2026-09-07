@@ -10,7 +10,7 @@ específico de un TP).
 
 ## Qué pasó
 
-En `mt10-innovacion-tecnologica/fidelizacion-coto`, la primera versión de
+En `mt10-innovacion-tecnologica/fidelizacion-retailco`, la primera versión de
 `presentacion.html` (landing de la presentación) se armó con `.slide {
 height: 100vh; overflow: hidden; }` — funcionaba bien en desktop porque el
 contenido entraba en una pantalla grande, pero en mobile (viewport angosto

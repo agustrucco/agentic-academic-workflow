@@ -12,7 +12,7 @@ trigger: Cuando tp-presentation-designer arma o actualiza el guion de la present
 asumas que todos los TPs de este repo comparten el mismo formato — cada
 consigna lo dice.
 
-Ejemplo de referencia (TP de fidelización de COTO): defensa tipo role play
+Ejemplo de referencia (TP de fidelización de RetailCo): defensa tipo role play
 "frente al directorio de la compañía", en grupo de 4-6 personas — sin
 minutado ni roles de audiencia confirmados literalmente en el programa
 oficial, así que conviene chequear el enunciado real antes de fijar tiempos.

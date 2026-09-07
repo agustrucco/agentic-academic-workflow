@@ -21,7 +21,7 @@ trigger: Cuando tp-research-analyst (o quien esté investigando) arranca el rese
    explícitamente: qué tiene el competidor que el caso no tiene, y
    viceversa — esto es lo que después usa `tp-solution-architect` para
    justificar por qué proponer algo. (Ejemplo del TP de fidelización de
-   COTO: comparar contra COTO Wallet.)
+   RetailCo: comparar contra RetailCo Wallet.)
 5. **Guardá el resultado** en `research/competidores.md` dentro de la
    carpeta del entregable activo (`materias/<materia>/<entregable>/`) — una
    sección por competidor, o un archivo separado si el research es extenso

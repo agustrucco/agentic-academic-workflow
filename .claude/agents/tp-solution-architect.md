@@ -10,11 +10,11 @@ description: |
 
   <example>
   Contexto: hay research de competidores y benchmarks de IA en retail para
-  el TP de fidelización de COTO, falta proponer la plataforma de campañas.
+  el TP de fidelización de RetailCo, falta proponer la plataforma de campañas.
   user: "Con el research que ya tenemos, diseñá la plataforma de generación
-  de demanda y gestión de campañas para COTO"
+  de demanda y gestión de campañas para RetailCo"
   assistant: "Uso tp-solution-architect para leer el research en
-  materias/mt10-innovacion-tecnologica/fidelizacion-coto/research/ y
+  materias/mt10-innovacion-tecnologica/fidelizacion-retailco/research/ y
   proponer la plataforma, con y sin componentes de IA, guardando el plan en
   plans/ de ese mismo entregable."
   </example>

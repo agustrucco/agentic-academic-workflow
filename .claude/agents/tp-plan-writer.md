@@ -9,11 +9,11 @@ description: |
 
   <example>
   Contexto: hay research y plan aprobados para el contexto de la
-  organización del TP de fidelización de COTO.
+  organización del TP de fidelización de RetailCo.
   user: "Redactá la sección de contexto de la organización con lo que ya
   tenemos"
   assistant: "Uso tp-plan-writer para tomar lo que hay en
-  materias/mt10-innovacion-tecnologica/fidelizacion-coto/research/ y
+  materias/mt10-innovacion-tecnologica/fidelizacion-retailco/research/ y
   redactar esa sección en entregable/plan-de-negocios.md de ese mismo
   entregable, siguiendo el checklist de la consigna."
   </example>

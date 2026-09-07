@@ -45,14 +45,14 @@ Cómo sumar un TP nuevo: crear `consignas/<materia-slug>-<entregable-slug>.md`
 con el enunciado, y `materias/<materia-slug>/<entregable-slug>/` con
 `research/`, `plans/`, `entregable/` (cada uno con su propio `README.md`
 explicando la convención — copiar el patrón de
-`materias/mt10-innovacion-tecnologica/fidelizacion-coto/`). Actualizar el
+`materias/mt10-innovacion-tecnologica/fidelizacion-retailco/`). Actualizar el
 índice en `materias/README.md`.
 
 ## Materias activas
 
 - **MT10 Innovación Tecnológica** → `materias/mt10-innovacion-tecnologica/`
-  - `fidelizacion-coto/` — plan de negocios de fidelización para COTO. Ver
-    `consignas/mt10-fidelizacion-coto.md`.
+  - `fidelizacion-retailco/` — plan de negocios de fidelización para RetailCo. Ver
+    `consignas/mt10-fidelizacion-retailco.md`.
 
 ## Cómo trabajar acá (agentes)
 

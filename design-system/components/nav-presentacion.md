@@ -1,6 +1,6 @@
 ---
 name: nav-presentacion
-fuente: patrón propio, implementado por primera vez en materias/mt10-innovacion-tecnologica/fidelizacion-coto/entregable/presentacion/presentacion.html
+fuente: patrón propio, implementado por primera vez en materias/mt10-innovacion-tecnologica/fidelizacion-retailco/entregable/presentacion/presentacion.html
 ---
 
 # Navegación para presentaciones HTML tipo landing

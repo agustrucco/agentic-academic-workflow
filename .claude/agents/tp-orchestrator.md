@@ -11,10 +11,10 @@ description: |
 
   <example>
   Contexto: el equipo quiere arrancar la sección de segmentación de
-  clientes con IA del TP de fidelización de COTO.
+  clientes con IA del TP de fidelización de RetailCo.
   user: "Armemos la sección de segmentación de clientes con IA"
   assistant: "Voy a usar tp-orchestrator para coordinar sobre
-  materias/mt10-innovacion-tecnologica/fidelizacion-coto/: primero research
+  materias/mt10-innovacion-tecnologica/fidelizacion-retailco/: primero research
   del tema, después el diseño de la solución, revisión, y por último la
   redacción de esa sección del documento."
   </example>
@@ -41,7 +41,7 @@ correcto en el orden correcto, y reportar estado al equipo.
 
 Este repo tiene varios TPs de varias materias en `materias/<materia-slug>/
 <entregable-slug>/`. Antes de coordinar nada:
-- Si el pedido menciona la materia o el tema (ej. "el TP de COTO"), buscá la
+- Si el pedido menciona la materia o el tema (ej. "el TP de RetailCo"), buscá la
   carpeta correspondiente en `materias/` (ver índice en `materias/README.md`).
 - Si no queda claro y hay más de un entregable activo, preguntá cuál antes de
   invocar a cualquier otro agente — nunca asumas.
