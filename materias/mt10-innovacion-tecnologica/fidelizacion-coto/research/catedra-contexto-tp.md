@@ -1,7 +1,7 @@
 # Contexto de la cátedra y del TP
 
 Fuente: `Programa MT10 Innovación Tecnológica.pdf` (programa oficial de la materia),
-`Clase IV` y `Clase VI` (slides de clase, Gustavo Koblinc).
+`Clase IV` y `Clase VI` (slides de clase, profesores de la cátedra).
 
 ## La materia
 
@@ -9,7 +9,7 @@ Fuente: `Programa MT10 Innovación Tecnológica.pdf` (programa oficial de la mat
   Gestión de Servicios Tecnológicos y de Telecomunicaciones, Universidad de San Andrés.
 - Eje temático: *Ecosistema emprendedor, CRM, Data Analytics, BI, AI, Campaign
   Management y Omnicanalidad*.
-- Profesores: Gustavo Koblinc (gkoblinc@gmail.com), Javier Neumann, Valeria Quaranta.
+- Profesores de la cátedra.
 
 ## Formato del TP según el programa oficial
 
@@ -40,7 +40,7 @@ TP (ver `CLAUDE.md`). Uso esto para saber qué leer antes de diseñar cada secci
 | 3 | El valor de los datos: Big Data, Advanced Analytics, IoT, Machine Learning | McKinsey "What AI can/can't do", "AI in business: real vs hype", "Power of IoT" | Big Data / Data Analytics + componentes de IA |
 | 4 | Digital Acceleration Model, Multicanalidad en campañas, transformación físico-digital | Gartner "Customer Experience Priorities", Gartner "Magic Quadrant for Multichannel Campaign" | Gestión de campañas, omnicanalidad |
 | 5 | BI/Big Data: tareas, beneficios, Data Driven Company | McKinsey "Making data analytics work for you" | Big Data / Data Analytics |
-| 6 | Omnicanalidad: vista orquestada de canales, tecnología y procesos, la IA como disruptor | Brynjolfsson et al. "Competing in the Age of Omnichannel Retailing"; Koblinc "Omnicanalidad vista desde adentro" | Omnicanalidad, atención al cliente, redes sociales |
+| 6 | Omnicanalidad: vista orquestada de canales, tecnología y procesos, la IA como disruptor | Brynjolfsson et al. "Competing in the Age of Omnichannel Retailing"; Cátedra MT10 "Omnicanalidad vista desde adentro" | Omnicanalidad, atención al cliente, redes sociales |
 | 7 | Advanced Analytics: KPIs, tendencias, dashboards accionables | Think with Google, "avanzar en analítica digital según impacto en el negocio" | Segmentación y acciones en tiempo real |
 | 8 | KPIs de canales orquestados, métricas integradas, estrategias omnicanales en adquisición/posventa/upsell/recupero | McKinsey "More than digital plus traditional"; Winterberry Group "From Theory to Practice: Roadmap to Omnichannel Activation" | ROI, segmentación, atención al cliente |
 | 9 | Presentación del caso de negocio | — | Entregable final |
